@@ -8,6 +8,6 @@
     "minimist": "0.0.8",
     "axios": "0.21.0",
     "jsonwebtoken": "8.5.1",
-    "PACKAGE_FROM_ADVISORY": "EXACT_AFFECTED_VERSION"
+    "@grabcad/company-server-shared": "0.0.1"
   }
 }
