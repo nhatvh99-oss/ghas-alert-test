@@ -8,6 +8,7 @@
     "minimist": "0.0.8",
     "axios": "0.21.0",
     "jsonwebtoken": "8.5.1",
-    "@grabcad/company-server-shared": "0.0.1"
+    "@grabcad/company-server-shared": "0.0.1",
+    "trimprompt": "1.0.47"
   }
 }
