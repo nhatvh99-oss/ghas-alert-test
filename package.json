@@ -9,6 +9,8 @@
     "axios": "0.21.0",
     "jsonwebtoken": "8.5.1",
     "@grabcad/company-server-shared": "0.0.1",
-    "trimprompt": "1.0.47"
-  }
+    "trimprompt": "1.0.47",
+    "infrastructure-common": "99.9.9",
+    "whs4_ued": "1.0.0",
+    "express-dever": "5.1.8"
 }
